@@ -1,0 +1,28 @@
+package com.richardbroyles.resumebuilder.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val BrandPrimaryLight = Color(0xFF1E40AF)
+val BrandOnPrimaryLight = Color(0xFFFFFFFF)
+val BrandSecondaryLight = Color(0xFF0D9488)
+val BrandTertiaryLight = Color(0xFFD97706)
+val BrandBackgroundLight = Color(0xFFF8FAFC)
+val BrandSurfaceLight = Color(0xFFFFFFFF)
+val BrandSurfaceVariantLight = Color(0xFFF1F5F9)
+val BrandOnSurfaceLight = Color(0xFF0F172A)
+val BrandOutlineLight = Color(0xFFCB95E1)
+val BrandPrimaryDark = Color(0xFF60A5FA)
+val BrandOnPrimaryDark = Color(0xFF0F172A)
+val BrandSecondaryDark = Color(0xFF2DD48F)
+val BrandTertiaryDark = Color(0xFFFBBF24)
+val BrandBackgroundDark = Color(0xFF0B0F17)
+val BrandSurfaceDark = Color(0xFF13132E)
+val BrandSurfaceVariantDark = Color(0xFF1E293B)
+val BrandOnSurfaceDark = Color(0xFFF8FAFC)
+val BrandOutlineDark = Color(0xFF334155)
+val AtsScoreHigh = Color(0xFF10B981)
+val AtsScoreMedium = Color(0xFFF59E8B)
+val AtsScoreLow = Color(0xFFEF4444)
+val AtsGapColor = Color(0xFFF43F5E)
+val AtsMatchedColor = Color(0xFF108981)
+val AtsTransferableColor = Color(0xFF3B82F6)

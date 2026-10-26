@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ResumeBuilder</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_tailor">Tailor Resume</string>
+    <string name="nav_tracker">Job Tracker</string>
+    <string name="nav_coach">Interview Coach</string>
+    <string name="profile_title">Candidate Profile</string>
+    <string name="profile_subtitle">Manage your core professional experience and skills</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_summary">Professional Summary</string>
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="tailor_title">AI Resume Tailoring</string>
+    <string name="tailor_subtitle">Paste a target job description below to run an ATS gap analysis and generate a tailored resume version.</string>
+    <string name="hint_job_description">Paste Job Description here…</string>
+    <string name="btn_generate_tailored">Generate Tailored Resume</string>
+    <string name="label_ats_score">ATS Match Score</string>
+    <string name="label_missing_keywords">Missing Keywords</string>
+    <string name="tracker_title">Application Tracker</string>
+    <string name="btn_add_application">+ Add Application</string>
+    <string name="action_loading">Processing with AI…</string>
+    <string name="action_export_pdf">Export as PDF</string>
+</resources>
